@@ -542,12 +542,12 @@ input[type='checkbox'] {
 	text-align: center;
 }
 
-.text-align h5{
+.text-align .una{
 	font-size: x-small;
 	color: #979796;
 }
 
-.text-align div, p{
+.text-align .pangalawa{
 	font-size: xx-small;
 	color: #979796;
 	line-height: normal;
